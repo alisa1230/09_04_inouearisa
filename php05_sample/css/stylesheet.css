@@ -1,0 +1,5 @@
+.solid_line {
+  /*上と下にグレイの1pxの線を引きます*/
+  border-top: solid 1px gray;
+  border-bottom: solid 1px gray;
+}
